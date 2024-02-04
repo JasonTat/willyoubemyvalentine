@@ -1,0 +1,1 @@
+const bearhug = 'bearhug.gif'
